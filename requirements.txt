@@ -1,1 +1,3 @@
+# Para desenvolvimento instale as dependencias pelo arquivo dev.txt
+# dentro do diretório requirements
 -r requirements/production.txt

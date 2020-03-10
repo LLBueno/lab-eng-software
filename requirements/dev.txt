@@ -1,1 +1,2 @@
 -r base.txt
+flask-shell-ipython==0.4.1
