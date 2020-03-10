@@ -10,3 +10,5 @@ Professor da disciplina: Fabrício Galende Marques de Carvalho
 
 * [Flask](https://www.palletsprojects.com/p/flask/) (Microframework Python)
 * [Postgresql](https://www.postgresql.org/)
+
+A aplicação está hospedada no Heroku e pode ser acessada através desse [link](http://fatecnews.herokuapp.com/).
